@@ -80,7 +80,7 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 
 ## Tecnologias utilizadas para construir o projeto:
 
-### 🎨 Frontend
+### 🖥️🎨 Frontend
 
 | Linguagem | Ícone |
 |---|---|
@@ -89,7 +89,7 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 | **Figma** | <img src="https://skillicons.dev/icons?i=figma"> |
 | **AWS** | <img src="https://skillicons.dev/icons?i=aws"> |
 
-### 📚 Backend
+### 🗄️🌐 Backend
 
 | Linguagem | Ícone |
 |---|---|

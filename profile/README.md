@@ -1,4 +1,4 @@
-# VEL
+<div align="center"><h1>VEL</h1></div>
 
 ## 🔹 Sobre nós 🔸
 

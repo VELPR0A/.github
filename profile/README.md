@@ -18,7 +18,7 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 👉 [Instagram](https://www.instagram.com/vel_proa/) 👈  
 👉 [Linktree](https://linktr.ee/VirtualEasyLog) 👈
 
-### Não deixe de conferir nosso Dossiê para uma visão mais completa do nosso trabalho:
+> Não deixe de conferir nosso Dossiê para uma visão mais completa do nosso projeto:
 
 👉 [Dossiê](https://heyzine.com/flip-book/873ecbdfd9.html) 👈
 

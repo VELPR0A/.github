@@ -15,7 +15,9 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 > A distância de um clique do seu destino! 🚀
 
 👉 [LinkedIn](https://www.linkedin.com/company/vel-br) 
+
 👉 [Instagram](https://www.instagram.com/vel_proa/)  
+
 👉 [Linktree](https://linktr.ee/VirtualEasyLog) 
 
 > Não deixe de conferir nosso Dossiê para uma visão mais completa do nosso projeto:

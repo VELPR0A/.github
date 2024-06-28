@@ -1,5 +1,7 @@
 <div align="center"><h1>VEL</h1></div>
 
+<img src="../BackgroundVel.png">
+
 ## 🔹 Sobre nós 🔸
 
 👋 Olá! Seja bem-vindo/a à página do GitHub da VEL! Somos uma plataforma dedicada à melhoria da gestão de empresas de entregas rápidas, ajudando entregadores e restaurantes a controlar melhor seus negócios. Nosso objetivo é oferecer uma estrada mais suave e direções claras para o sucesso! 🏁🛵

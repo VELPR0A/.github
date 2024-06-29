@@ -1,6 +1,6 @@
 <div align="center"><h1>VEL</h1></div>
 
-<img src="../BackgroundVel.png">
+<img src="../Background.png">
 
 ## 🔹 Sobre nós 🔸
 

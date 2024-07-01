@@ -90,6 +90,7 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 |---|---|
 | **React** | <img src="https://skillicons.dev/icons?i=react"> |
 | **Vite** | <img src="https://skillicons.dev/icons?i=vite"> |
+| **Styled-Components** | <img src="https://skillicons.dev/icons?i=styledcomponents"> |
 | **Figma** | <img src="https://skillicons.dev/icons?i=figma"> |
 | **AWS** | <img src="https://skillicons.dev/icons?i=aws"> |
 

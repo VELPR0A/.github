@@ -24,7 +24,7 @@ Facilitar a gestão de entregas para restaurantes e empresas de motos, melhorand
 
 > Não deixe de conferir nosso Dossiê para uma visão mais completa do nosso projeto:
 
-👉 [Dossiê](https://heyzine.com/flip-book/873ecbdfd9.html) 
+👉 [Dossiê](https://heyzine.com/flip-book/bc1129237f.html) 
 
 ## 💪 Nossa equipe (A-Z) 💪
 
